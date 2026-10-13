@@ -12,7 +12,7 @@ AB Veterinary Job provides an animal care role for servers looking to expand the
 - Animal care assignments
 - Custom user interface
 - Configurable locations and payments
-- Built-in debugging options
+- Built in debugging options
 
 ## Requirements
 
