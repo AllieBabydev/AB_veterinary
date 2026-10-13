@@ -32,19 +32,5 @@ Changes and fixes are documented in `CHANGELOG.md` and the corresponding GitHub 
 
 For support, contact AllieBabyDev through Dev Vault.
 
-When reporting an issue, include:
 
-- Resource version
-- Relevant console errors
-- Steps to reproduce the problem
-
-Do not include passwords, webhook URLs, or other private server information.
-
-## Author
-
-AllieBabyDev
-
-## Distribution
-
-Do not reupload, resell, or redistribute this resource without permission from the author.
 
