@@ -8,4 +8,4 @@
 - Improved dispatch timing.
 
 ### Fixed
-- Fixed animals occasionally spawning outside configured areas.
+- Fixed animals occasionally spawning outside configured areas..
